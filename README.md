@@ -50,15 +50,22 @@ Trae → **设置** → **Rules & Skills** → **创建** → 上传 `project-mg
 ### Codex
 
 ```bash
+# 克隆到 skills 目录
 git clone https://github.com/genapohub/project-mgmt-guide.git ~/.codex/skills/project-mgmt-guide
+
+# 或使用 cc switch (推荐)
 git clone https://github.com/genapohub/project-mgmt-guide.git ~/.cc-switch/skills/project-mgmt-guide
 ```
 
-### Cursor
+重启 CC Switch客户端/Codex客户端 后自动发现。也可以在对话中输入 `$project-mgmt-guide` 手动调用。
 
+### Cursor
 ```bash
+# 克隆到 skills 目录
 git clone https://github.com/genapohub/project-mgmt-guide.git ~/.cursor/skills-cursor/project-mgmt-guide
 ```
+
+重启 Cursor客户端 后自动发现。也可以在对话中输入 `$project-mgmt-guide` 手动调用。
 
 ---
 
