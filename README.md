@@ -37,7 +37,6 @@ zip -r project-mgmt-guide.zip project-mgmt-guide/ ~/.workbuddy/skills/project-mg
 ```bash
 git clone https://github.com/genapohub/project-mgmt-guide.git
 zip -r project-mgmt-guide.zip project-mgmt-guide/
-zip -r project-mgmt-guide.zip project-mgmt-guide/
 ```
 然后在 WorkBuddy 桌面端 → **技能市场** → **添加技能/上传技能** → **点击"跳过检测，直接安装"**。
 
