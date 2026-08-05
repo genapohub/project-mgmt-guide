@@ -29,8 +29,7 @@
 
 **方式一：克隆到 skills 目录**
 ```bash
-git clone https://github.com/genapohub/project-mgmt-guide.git
-zip -r project-mgmt-guide.zip project-mgmt-guide/ ~/.workbuddy/skills/project-mgmt-guide
+git clone https://github.com/genapohub/project-mgmt-guide.git ~/.workbuddy/skills/project-mgmt-guide
 ```
 
 **方式二：ZIP导入**
@@ -53,12 +52,10 @@ Trae → **设置** → **Rules & Skills** → **创建** → 上传 `project-mg
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/project-mgmt-guide.git
-zip -r project-mgmt-guide.zip project-mgmt-guide/ ~/.codex/skills/project-mgmt-guide
+git clone https://github.com/genapohub/project-mgmt-guide.git ~/.codex/skills/project-mgmt-guide
 
 # 或使用 cc switch (推荐)
-git clone https://github.com/genapohub/project-mgmt-guide.git
-zip -r project-mgmt-guide.zip project-mgmt-guide/ ~/.cc-switch/skills/project-mgmt-guide
+git clone https://github.com/genapohub/project-mgmt-guide.git ~/.cc-switch/skills/project-mgmt-guide
 ```
 
 重启 CC Switch客户端/Codex客户端 后自动发现。也可以在对话中输入 `$project-mgmt-guide` 手动调用。
@@ -66,8 +63,7 @@ zip -r project-mgmt-guide.zip project-mgmt-guide/ ~/.cc-switch/skills/project-mg
 ### Cursor
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/project-mgmt-guide.git
-zip -r project-mgmt-guide.zip project-mgmt-guide/ ~/.cursor/skills-cursor/project-mgmt-guide
+git clone https://github.com/genapohub/project-mgmt-guide.git ~/.cursor/skills-cursor/project-mgmt-guide
 ```
 
 重启 Cursor客户端 后自动发现。也可以在对话中输入 `$project-mgmt-guide` 手动调用。
